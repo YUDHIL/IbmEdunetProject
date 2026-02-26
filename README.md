@@ -11,7 +11,6 @@ Features
     Dynamic prediction feed that updates every few seconds
     Responsive dark-themed dashboard UI
     Multi-page structure for better data organization
-    Ready for backend integration (Flask + Machine Learning model)
 
 Pages Description
 1. Home Page
